@@ -1,0 +1,9 @@
+/home/workplace/EB/EB_weight_int8/Paddle_int8_weight/fpAintB_test/cutlass/cutlass_fpAintB/cutlass_extensions/gemm/kernel/fpA_intB_gemm.h(65): error: template parameter declaration is missing
+
+/home/workplace/EB/EB_weight_int8/Paddle_int8_weight/fpAintB_test/cutlass/cutlass_fpAintB/cutlass_extensions/gemm/kernel/fpA_intB_gemm.h(72): error: identifier "SplitKSerial" is undefined
+
+/home/workplace/EB/EB_weight_int8/Paddle_int8_weight/fpAintB_test/cutlass/cutlass_fpAintB/cutlass_kernels/cutlass_heuristic.h(122): warning #177-D: variable "min_stages" was declared but never referenced
+
+/home/workplace/EB/EB_weight_int8/Paddle_int8_weight/fpAintB_test/cutlass/cutlass_fpAintB/cutlass_kernels/cutlass_heuristic.h(123): warning #177-D: variable "max_stages" was declared but never referenced
+
+2 errors detected in the compilation of "fpAintB_test.cu".
